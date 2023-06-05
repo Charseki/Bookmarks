@@ -64,6 +64,7 @@ They some how already know what you truly want to become. Everything else is sec
 + [VulApps](http://vulapps.evalbug.com/)
 + [VULNSPY](https://www.vulnspy.com/)
 + [XSS Thousand Knocks](https://knock.xss.moe/)
++ [xss-lab](https://github.com/Re13orn/xss-lab)
 + [upload-labs](https://github.com/c0ny1/upload-labs)
 + [sqli-labs](https://github.com/Audi-1/sqli-labs)
 + [pikachu](https://github.com/zhuifengshaonianhanlu/pikachu)
